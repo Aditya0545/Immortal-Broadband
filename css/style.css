@@ -951,6 +951,9 @@ body {
     letter-spacing: 0.5px;
     transition: all 0.3s ease;
     box-shadow: 0 4px 15px rgba(76, 175, 80, 0.3);
+    display: block;
+    margin: 0 auto;
+    text-align: center;
 }
 
 .plan-card .btn:hover {
