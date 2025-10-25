@@ -1,0 +1,21 @@
+{
+  "name": "immortal-broadband",
+  "version": "1.0.0",
+  "description": "Immortal Broadband - Internet Service Provider Website",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static site - no build process needed'",
+    "start": "echo 'Static site - serve index.html'",
+    "dev": "echo 'Static site - serve index.html'"
+  },
+  "keywords": [
+    "broadband",
+    "internet",
+    "isp",
+    "static-website"
+  ],
+  "author": "Immortal Broadband",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
